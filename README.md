@@ -1,7 +1,7 @@
 # HTML
 ### Basics
 - [Grundaufbau](https://github.com/Aovos/HTML/wiki/Grundaufbau)
-- Metadaten
+- [Metadaten](https://github.com/Aovos/HTML/wiki/Metadaten)
 - Strukturelemente
 - Dateipfade
 
